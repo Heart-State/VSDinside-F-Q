@@ -167,3 +167,29 @@ A: First, drag the **Countdown** function option to a key. Set the countdown tim
 ### Q: I feel my privacy has been violated? I have questions about some of the data collected?
 A: Please contact our technical support and we will answer your questions.  
 📧 support@vsdinside.com
+
+
+# VSDinside Official Resources
+
+- **Official Website**：[https://www.vsdinside.com/](https://www.vsdinside.com/)
+- **Space Website**：[https://space.key123.vip/home](https://space.key123.vip/home)
+- **BBS Website**：[https://bbs.key123.vip/](https://bbs.key123.vip/)
+- **Software Download**：[https://www.vsdinside.com/pages/download](https://www.vsdinside.com/pages/download)
+- **Developer Address**：[https://creator.key123.vip/](https://creator.key123.vip/)
+
+---
+
+## Community and Support
+- **Discord Community**：[https://discord.gg/bFnuyQnU](https://discord.gg/bFnuyQnU)
+- **Reddit Community**：[https://www.reddit.com/r/VSD_INSIDE/](https://www.reddit.com/r/VSD_INSIDE/)
+- **Technical Support**：📧 support@vsdinside.com  
+
+---
+
+## social media
+- **Facebook**：[https://www.facebook.com/Vsdinside](https://www.facebook.com/Vsdinside)
+- **Instagram**：[https://www.instagram.com/vsdinsideofficial/](https://www.instagram.com/vsdinsideofficial/)
+- **YouTube**：[https://www.youtube.com/@VSDinside](https://www.youtube.com/@VSDinside)
+- **YouTube Tutorial**：[https://www.youtube.com/@VSDinside_Tutorialvsd](https://www.youtube.com/@VSDinside_Tutorialvsd)
+- **TikTok**：[https://www.tiktok.com/@vsdinside](https://www.tiktok.com/@vsdinside)
+- **X (Twitter)**：[https://x.com/vsdinside](https://x.com/vsdinside)
