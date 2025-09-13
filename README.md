@@ -1,4 +1,4 @@
-# 常见问题解答 (FAQ)
+# FAQs
 
 ### Q: How do I add "Open Program" to a key? / How do I set a program I want to open on the keypad area?
 A: You can drag the app shortcut directly from your desktop to a blank key slot in the driver software. Alternatively, drag the "Open" button from the right toolbar and then select the program you want to launch in the section below.
